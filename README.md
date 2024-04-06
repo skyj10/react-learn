@@ -1,4 +1,6 @@
-# This is the code repository I use for learning the React framework, including some demo implementations and understanding as well as annotated notes during my learning process.More detailed notes are in the following repository.
+# Repository Description
+- This is the code repository I use for learning the React framework, including some demo implementations and understanding as well as annotated notes during my learning process.
+- More detailed notes are in the following repository.
 [vue-to-react-note]([link](https://github.com/skyj10/vue-to-react-note))
 
 
